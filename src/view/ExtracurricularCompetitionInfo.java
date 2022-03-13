@@ -1,9 +1,7 @@
 package view;
 /*
- * Group #1
  * Name: Sylvia
  * Date: 2021/12/16
- * Course: ICS4U1-01, Mr. Fernandes
  * Title: Post-secondary App, ExtracurricularCompetitionInfo
  * Description: This class sets up the extracurricular competition info frame allowing users to enter
  * up to 5 competitions
