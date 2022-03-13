@@ -13,7 +13,6 @@
  * 
  * 
  * Date: December 16, 2021
- * Course: ICS4U1-02 Mr. Fernandes
  * 
  * Title: UniMatch Post-Secondary App
  * 
