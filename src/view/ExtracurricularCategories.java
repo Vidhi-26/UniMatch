@@ -1,9 +1,7 @@
 package view;
 /*
- * Group #1
  * Name: Sylvia
  * Date: 2021/12/16
- * Course: ICS4U1-01, Mr. Fernandes
  * Title: Post-secondary App, ExtracurricularCategories
  * Description: This class sets up the extracurricular activity categories frame showing eight categories
  * for users to select
