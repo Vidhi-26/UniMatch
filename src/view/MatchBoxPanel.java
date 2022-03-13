@@ -1,7 +1,6 @@
 /*
  * Name: Vidhi Ruparel
  * Date: December 16, 2021
- * Course: ICS4U1-02 Mr. Fernandes
  * Description: This panel displays the top 5 matched programs of the student.
  */
 package view;
