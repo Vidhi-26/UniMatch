@@ -10,7 +10,6 @@ import model.Program;
 /*
  * Name: Sutavin Vinothan
  * Date: December 16, 2021
- * Course: ICS4U1-02 Mr. Fernandes
  * Description:Import controller that gets all the fields from the spreadsheet and puts it into a arraylist
  */
 public class UniversityInputController {
