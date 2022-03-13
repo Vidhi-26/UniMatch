@@ -1,7 +1,6 @@
 /*
  * Name: Vidhi Ruparel
  * Date: December 16, 2021
- * Course: ICS4U1-02 Mr. Fernandes
  * Description: This is the template for a Student object.
  */
 package model;
