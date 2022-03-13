@@ -12,7 +12,6 @@ import view.LoginFrame;
 /*
  * Name: Sutavin Vinothan
  * Date: December 16, 2021
- * Course: ICS4U1-02 Mr. Fernandes
  * Description:Login Controllers that handles all the button functionalities as well as
  * the message popups, confirmations, and many other features
  */
