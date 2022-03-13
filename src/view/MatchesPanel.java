@@ -1,7 +1,6 @@
 /*
  * Name: Vidhi Ruparel
  * Date: December 16, 2021
- * Course: ICS4U1-02 Mr. Fernandes
  * Description: This sets up the MatchesPanel that displays the 5 MatchBoxes, which are the user's top 5 matched programs. 
  */
 package view;
