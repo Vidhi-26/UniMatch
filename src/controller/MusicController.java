@@ -1,7 +1,6 @@
 /*
  * Names Vidhi Ruparel
  * Date: December 5th, 2021
- * Course: ICS4U1 - Mr. Fernandes
  * Description: This method controls the music that plays.
  * Cite: 
  * Music: Spark Of Inspiration by Shane Ivers - https://www.silvermansound.com
