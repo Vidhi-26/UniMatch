@@ -20,7 +20,6 @@ import javax.swing.border.Border;
 /*
  * Name: Sutavin Vinothan
  * Date: December 16, 2021
- * Course: ICS4U1-02 Mr. Fernandes
  * Description:Password change panels that allows input for username,
  * password and confirm password
  */
