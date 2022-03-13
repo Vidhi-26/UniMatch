@@ -1,7 +1,6 @@
 /*
  * Name: Vidhi Ruparel
  * Date: December 16, 2021
- * Course: ICS4U1-02 Mr. Fernandes
  * Description: This class contains the sophisticated matching algorithm used to match the user with university programs. 
  */
 package controller;
