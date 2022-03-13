@@ -1,7 +1,6 @@
 /*
  * Name: Vidhi Ruparel
  * Date: December 16, 2021
- * Course: ICS4U1-02 Mr. Fernandes
  * Description: The Matches Frame sets up the header and Matches Panel (that eventually displays user's top 5 matches.
  */
 package view;
