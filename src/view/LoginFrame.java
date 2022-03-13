@@ -15,7 +15,6 @@ import javax.swing.border.Border;
 /*
  * Name: Sutavin Vinothan
  * Date: December 16, 2021
- * Course: ICS4U1-02 Mr. Fernandes
  * Description:Login frame that holds the Login Panel, RegisterPanel, and Change Password Panel
  */
 public class LoginFrame extends JFrame {
