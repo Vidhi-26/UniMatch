@@ -1,8 +1,6 @@
 /*
- * Group #1
  * Name: Sylvia
  * Date: 2021/12/16
- * Course: ICS4U1-01, Mr. Fernandes
  * Title: Post-secondary App, ExtracurricularsController
  * Description: This class contains methods to calculate points of extracurricular activities done and
  * competitions participated
