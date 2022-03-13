@@ -1,8 +1,6 @@
 /*
- * Group #1
  * Name: Sylvia
  * Date: 2021/12/16
- * Course: ICS4U1-01, Mr. Fernandes
  * Title: Post-secondary App, ExtracurricularAsking
  * Description: This class sets up the extracurricular asking frame asking users if they have participated
  * in any competitions
