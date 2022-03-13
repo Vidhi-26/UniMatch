@@ -1,0 +1,6 @@
+vidhi,true,0,true,1,true,2,true,3,true,4,true,5,true,6,true,7,
+john,true,0,true,1,true,2,true,3,true,4,true,5,true,6,true,7,
+jasper,true,0,true,1,true,2,true,3,true,4,true,5,true,6,true,7,
+panda,true,0,true,1,true,2,true,3,true,4,true,5,true,6,true,7,
+shreyas,true,0,true,1,true,2,true,3,true,4,true,5,true,6,true,7,
+r,true,0,true,1,true,2,true,3,true,4,true,5,true,6,true,7
