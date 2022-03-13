@@ -33,7 +33,6 @@ import javax.swing.JFrame;
 /*
  * Name: Sutavin Vinothan
  * Date: December 16, 2021
- * Course: ICS4U1-02 Mr. Fernandes
  * Description:Login Panel that allows username and password input
  * Also includes a register and forget password button
  */
